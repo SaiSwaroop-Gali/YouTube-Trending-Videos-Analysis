@@ -8,11 +8,11 @@
 
 ![YouTube-Treanding-Video-Analytics-](/Images/Dashboard.jpg)
 
-•	Developed an interactive Power BI dashboard to visualize global YouTube trending video data, focusing on key viewership metrics to assist content creators in refining their content strategies.
+•	Developed an interactive Power BI dashboard to visualize the global YouTube trending video dataset, assisting content creators in refining their content strategies for better viewership.
 
-•	Implemented DAX functions for various fact calculations of YouTube video trends and custom visuals to effectively display viewership metrics
+•	Implemented DAX measures for calculations on YouTube video trend analysis to effectively display key metrics.
 
-•	Created various visualizations in the dashboard using custom visuals like stacked bars, donut charts, line Charts, Cards, Slicers, bookmark etc.
+•	Created a BI report using custom visuals like stacked bars, donut charts, line charts, cards, slicers, bookmarks.
 
 **Tech Stack:** Microsoft PowerBI
 
